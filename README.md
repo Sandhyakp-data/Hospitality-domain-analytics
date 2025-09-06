@@ -2,6 +2,9 @@
 AtliQ Grands, a luxury hotel chain with multiple five-star properties across India, has been in the hospitality industry for over 20 years. Recently, they've faced declining market share and revenue due to competition and ineffective decision-making. To turn things around, they've opted to leverage Business and Data Intelligence, hiring a 3rd party provider to analyze their historical data and provide actionable insights to help them regain their market position.
 
 The challenge was to create a dash board for Revenue management team which helps them to take decisions in their business.
+![image]<img width="1200" height="1080" alt="Hotel " src="https://github.com/user-attachments/assets/cc013c91-00df-43c1-8504-d87755c04606" />
+
+
 
 This project started with detail understanding about the problem statement and hospitality domain. How key performance indicators for hospitality plays a key role in understanding key insights.
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
